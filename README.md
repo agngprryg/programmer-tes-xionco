@@ -68,18 +68,3 @@ Field utama:
 - **UI**: Bebas (fokus pada fungsionalitas)
 
 ---
-
-## ▶️ Cara Menjalankan Aplikasi
-
-### 1️⃣ Clone Repository
-```bash
-git clone <URL_REPOSITORY>
-cd admin-system
-npm install
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=
-DB_NAME=admin_system
-PORT=3000
-npm run start
-
